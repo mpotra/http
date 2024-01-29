@@ -14,11 +14,11 @@ defmodule XHTTP.MixProject do
       elixirc_paths: elixirc_paths(Mix.env()),
 
       # Hex
-      description: "",
+      description: "Elixir protocols for HTTP requests and responses",
       package: package(),
 
       # Docs
-      name: "Montblanc",
+      name: "XHTTP",
       docs: docs()
     ]
   end
