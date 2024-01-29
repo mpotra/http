@@ -1,5 +1,9 @@
 # XHTTP
 
+[![hex.pm version](https://img.shields.io/hexpm/v/xhttp)](https://hex.pm/packages/xhttp)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/mpotra/xhttp/elixir.yml
+)](https://travis-ci.org/mpotra/xhttp)
+
 `XHTTP` is a library that defines the [Response](lib/response.ex) and
 [ResponseDocument](lib/response_document.ex) protocols.
 
