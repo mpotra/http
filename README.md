@@ -1,7 +1,7 @@
 # XHTTP
 
-`XHTTP` is a library that defines the [Response](`XHTTP.Response`) and
-[ResponseDocument](`XHTTP.ResponseDocument`) protocols.
+`XHTTP` is a library that defines the [Response](lib/response.ex) and
+[ResponseDocument](lib/response_document.ex) protocols.
 
 For an implementation on top of [Req](https://hex.pm/packages/req)
 see [xhttp_req](https://hex.pm/packages/xhttp_req)
